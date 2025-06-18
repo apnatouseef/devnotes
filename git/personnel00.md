@@ -19,3 +19,5 @@ git log ... it will show all previous commits details
 
 A:  
 `git add` && `git commit -m "this is my commit"` && `git push`
+
+`git clone url`  - it will pull repository from github to our local machine.
