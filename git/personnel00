@@ -4,3 +4,7 @@ git commit -m "this commited" ... this will commit the changes
 git diff ... it will show difference of file changes that not commited yet
 
 git log ... it will show all previous commits details 
+
+## **Interview-Q**:
+What is git work-flow that used in your organization
+Git add  &&  git commit -m “this is my commit”  &&  git push
