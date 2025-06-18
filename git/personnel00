@@ -8,3 +8,9 @@ git log ... it will show all previous commits details
 ## **Interview-Q**:
 What is git work-flow that used in your organization
 Git add  &&  git commit -m “this is my commit”  &&  git push
+
+## **Interview-Q**:
+**Q: What is the Git workflow that is used in your organization?**
+
+A:  
+`git add`  &&  `git commit -m "this is my commit"`  &&  `git push`
