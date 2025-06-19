@@ -23,6 +23,7 @@ A:
 `git clone url`  - it will pull repository from github to our local machine.
 
 **Interview-Q**
+
 🔄 git clone vs git fork
 
 ✅ `git clone`
@@ -30,9 +31,6 @@ A:
 - Commonly used when you want to **work on someone else's repo directly** or contribute via branches.
 
 git clone https://github.com/username/project.git
-```
-
----
 
 ✅ `git fork`
 
@@ -44,6 +42,4 @@ git clone https://github.com/username/project.git
 
 1. Click **Fork** button on GitHub
 2. Clone your fork:
-
-```
 
