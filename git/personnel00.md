@@ -21,3 +21,36 @@ A:
 `git add` && `git commit -m "this is my commit"` && `git push`
 
 `git clone url`  - it will pull repository from github to our local machine.
+
+git clone vs git fork
+git clone - by using git clone we can download entire repo in our local
+git fork - by using fork we can create a copy of repository to our githun account
+
+Here's your content transformed into a clean, readable **GitHub Markdown notes format**:
+
+---
+
+## 🔄 git clone vs git fork
+
+### ✅ `git clone`
+- Downloads the **entire repository** (code, history, branches) to your **local machine**.
+- Commonly used when you want to **work on someone else's repo directly** or contribute via branches.
+
+git clone https://github.com/username/project.git
+```
+
+---
+
+### ✅ `git fork`
+
+* Creates a **copy of someone else's repository** under **your own GitHub account**.
+* Used when you want to **contribute to someone else's project** without affecting the original repo.
+* After forking, you can `git clone` your **forked repo** to your local system.
+
+📌 Steps:
+
+1. Click **Fork** button on GitHub
+2. Clone your fork:
+
+```
+
