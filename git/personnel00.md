@@ -22,17 +22,10 @@ A:
 
 `git clone url`  - it will pull repository from github to our local machine.
 
-git clone vs git fork
-git clone - by using git clone we can download entire repo in our local
-git fork - by using fork we can create a copy of repository to our githun account
+**Interview-Q**
+🔄 git clone vs git fork
 
-Here's your content transformed into a clean, readable **GitHub Markdown notes format**:
-
----
-
-## 🔄 git clone vs git fork
-
-### ✅ `git clone`
+✅ `git clone`
 - Downloads the **entire repository** (code, history, branches) to your **local machine**.
 - Commonly used when you want to **work on someone else's repo directly** or contribute via branches.
 
@@ -41,7 +34,7 @@ git clone https://github.com/username/project.git
 
 ---
 
-### ✅ `git fork`
+✅ `git fork`
 
 * Creates a **copy of someone else's repository** under **your own GitHub account**.
 * Used when you want to **contribute to someone else's project** without affecting the original repo.
