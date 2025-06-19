@@ -24,7 +24,7 @@ A:
 
 **Interview-Q**
 
-🔄 git clone vs git fork
+🔄 **git clone vs git fork**
 
 ✅ `git clone`
 - Downloads the **entire repository** (code, history, branches) to your **local machine**.
