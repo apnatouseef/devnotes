@@ -43,3 +43,37 @@ git clone https://github.com/username/project.git
 1. Click **Fork** button on GitHub
 2. Clone your fork:
 
+** Git Branches**
+git branch   it will show current branch
+git checkout -b newbranch1    it will create and switch to this new branch
+
+vim and add calculator.sh file 
+git add filename
+git commit -m "this is from my side"
+git status
+git log
+git log --oneline    it will show logs in oneline
+
+user001@test-kube:~/git-practice$ git log
+commit 42db81800eaa111f63baaae4d8d96572aadbeb4c (HEAD -> newbra1)
+Author: Ali Khan <ali.khan@example.com>
+Date:   Fri Jun 20 01:44:17 2025 +0000
+
+    new change2
+
+commit aee2915a23706608985cb766bf408c846a251f87 (main)
+Author: Ali Khan <ali.khan@example.com>
+Date:   Wed Jun 18 02:39:20 2025 +0000
+
+    next change
+
+commit 0e393029500f236fc03085cfa72036c0f167e314
+Author: Ali Khan <ali.khan@example.com>
+Date:   Fri Jun 13 02:59:10 2025 +0000
+
+    this is my change
+
+git checkout main     it will switch to main branch
+
+Now Three new thisgs (git merge git rebase git cherry-pick)
+
