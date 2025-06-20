@@ -81,4 +81,7 @@ Now Three new thisgs (git merge git rebase git cherry-pick)
 merge   it will show changes(commit) at top
 rebase  it will show changes (commit) not at top
 
+git merge <branch name>  it will merge curret branch to desired branch
+git rebase <branch name> it will merge branch but logs will be in their sequence
+
 mostly rebase use for developer bcz it show in linear form all the previous and current changes according to actual sequence
