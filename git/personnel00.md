@@ -77,3 +77,8 @@ git checkout main     it will switch to main branch
 
 Now Three new thisgs (git merge git rebase git cherry-pick)
 
+
+merge   it will show changes(commit) at top
+rebase  it will show changes (commit) not at top
+
+mostly rebase use for developer bcz it show in linear form all the previous and current changes according to actual sequence
